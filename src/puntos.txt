@@ -1,0 +1,17 @@
+montarlo en github -- organizacion
+
+post,get, put, delete
+
+crear base datos -> tablam minimo un campo
+
+exportar la db y save en el proyecto
+
+no montar la folder node_modules a github
+
+construir al distribuidor -distribuidor dis
+
+sacar apuntes
+
+al ultimo commit se llama "entrega final 2"
+
+copiar todas las condiciones y subirlas al proyecto
