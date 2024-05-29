@@ -14,4 +14,4 @@ sacar apuntes
 
 al ultimo commit se llama "entrega final 2"
 
-copiar todas las condiciones y subirlas al proyecto
+copiar todas las condiciones y subirlas al proyecto.
